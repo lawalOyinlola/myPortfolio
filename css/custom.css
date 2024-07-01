@@ -1,16 +1,21 @@
-@media (max-width: 767.98px) {
-  .home-area .fixed-wrapper .fixed-block.block-right {
-    display: flex;
-    justify-content: center;
-    width: 100%;
-  }
+#home {
+  background-image: url("../img/bg-image.png");
+}
 
-  .home-area .fixed-wrapper .fixed-block .social-icons {
-    display: flex;
-    gap: 16px;
-    max-width: 100%;
-    font-size: 20px;
-  }
+.review-header i {
+  font-size: 50px;
+  color: #009e66;
+}
+
+.contact-socials {
+  margin-top: 8px;
+  display: flex;
+  gap: 20px;
+}
+
+.contact-socials .fa-brands {
+  color: #009e66;
+  font-size: 24px;
 }
 
 .info-img {
@@ -30,4 +35,19 @@
 
 .info-img .img-fluid.img-thumbnail {
   width: 100%;
+}
+
+@media (max-width: 767.98px) {
+  .home-area .fixed-wrapper .fixed-block.block-right {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+
+  .home-area .fixed-wrapper .fixed-block .social-icons {
+    display: flex;
+    gap: 16px;
+    max-width: 100%;
+    font-size: 20px;
+  }
 }
