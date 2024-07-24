@@ -925,12 +925,13 @@ hr {
 }
 @media (max-width: 991.98px) {
   .info-section .info-img img {
-    -o-object-fit: cover;
+    -o-object-fit: contain;
     border-radius: 50%;
     display: block;
-    height: 250px;
+    height: 400px;
     margin: 0 auto 40px auto;
     object-fit: cover;
+    object-position: center 18%;
     width: 250px;
   }
   .info-section .info-content .content-subtitle {
