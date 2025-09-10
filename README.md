@@ -1,6 +1,6 @@
 # Lawal Oyinlola's Portfolio
 
-A minimal portfolio, component registry, and blog inspired by [chanhdai.com](https://chanhdai.com) to showcase my work as a Full-Stack Developer.
+A minimal portfolio, component registry, and blog inspired by [chanhdai.com](https://chanhdai.com) to showcase my work as a Frontend Developer.
 
 **Inspired by:** [chanhdai.com](https://chanhdai.com) by Nguyen Chanh Dai (@ncdai)
 
@@ -67,17 +67,15 @@ Licensed under the [MIT license](./LICENSE).
 
 You're free to use my code! Just make sure to <ins>remove all my personal information</ins> before publishing your website. It's awesome to see my code being useful to someone!
 
-## Star History
-
-[![Star History](https://starchart.cc/ncdai/chanhdai.com.svg?variant=adaptive)](https://starchart.cc/ncdai/chanhdai.com)
-
 ## Acknowledgments
 
 **Special Thanks:**
+
 - [Nguyen Chanh Dai (@ncdai)](https://github.com/ncdai) for the original [chanhdai.com](https://chanhdai.com) design and inspiration
 - The open-source community for the amazing tools and libraries
 
 **Technologies Used:**
+
 - [React](https://react.dev)
 - [Next.js](https://nextjs.org)
 - [Tailwind CSS](https://tailwindcss.com)
