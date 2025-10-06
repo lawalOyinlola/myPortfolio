@@ -1,24 +1,8 @@
 # Lawal Oyinlola's Portfolio
 
-A minimal portfolio, component registry, and blog inspired by [chanhdai.com](https://chanhdai.com) to showcase my work as a Frontend Developer.
-
-**Inspired by:** [chanhdai.com](https://chanhdai.com) by Nguyen Chanh Dai (@ncdai)
+A minimalist portfolio, component registry, and blog inspired by [chanhdai.com](https://chanhdai.com) to showcase my work as a Frontend Developer.
 
 Check out the live site: [lawaloyinlola.com](https://lawaloyinlola.com)
-
-<a href="https://frogdr.com/chanhdai.com?via=ncdai&utm_source=chanhdai.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://frogdr.com/chanhdai.com/badge-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://frogdr.com/chanhdai.com/badge-white.svg">
-    <img src="https://frogdr.com/chanhdai.com/badge-white.svg" alt="Monitor your Domain Rating" style="width: auto; height: 40px">
-  </picture>
-</a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://assets.chanhdai.com/images/screenshot-desktop-dark.webp">
-  <source media="(prefers-color-scheme: light)" srcset="https://assets.chanhdai.com/images/screenshot-desktop-light.webp">
-  <img src="https://assets.chanhdai.com/images/screenshot-desktop-light.webp" alt="Screenshot">
-</picture>
 
 ## Overview
 
