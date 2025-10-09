@@ -4,6 +4,12 @@ A minimalist portfolio, component registry, and blog inspired by [chanhdai.com](
 
 Check out the live site: [lawaloyinlola.com](https://lawaloyinlola.com)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://lawaloyinlola.com/images/screenshot-dark.webp">
+  <source media="(prefers-color-scheme: light)" srcset="https://lawaloyinlola.com/images/screenshot.webp">
+  <img src="https://lawaloyinlola.com/images/screenshot-dark.webp" alt="Screenshot">
+</picture>
+
 ## Overview
 
 ### Tech Stack

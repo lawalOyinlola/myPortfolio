@@ -6,6 +6,9 @@ const nextConfig: NextConfig = {
   allowedDevOrigins: ["chanhdai-macbook.local"],
   devIndicators: false,
   images: {
+    domains: [
+      "api.microlink.io", // Microlink Image Preview
+    ],
     remotePatterns: [
       {
         protocol: "https",
@@ -15,6 +18,7 @@ const nextConfig: NextConfig = {
     ],
     qualities: [75, 100],
   },
+
   async rewrites() {
     return [
       {

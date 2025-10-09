@@ -14,6 +14,7 @@ import {
   CollapsibleContent,
   CollapsibleTrigger,
 } from "@/components/ui/collapsible";
+import { LinkPreview } from "@/components/ui/link-preview";
 import { Tag } from "@/components/ui/tag";
 import { SimpleTooltip } from "@/components/ui/tooltip";
 import { Prose } from "@/components/ui/typography";
@@ -89,11 +90,16 @@ export function ProjectItem({
                   href={addQueryParams(project.link, UTM_PARAMS)}
                   target="_blank"
                   rel="noopener"
-                >
-                  <LinkIcon className="pointer-events-none size-4" />
-                  <span className="sr-only">Open Project Link</span>
-                </a>
+                ></a>
               </SimpleTooltip>
+
+              <LinkPreview
+                url={project.link}
+                className="flex items-center justify-center"
+              >
+                <LinkIcon className="pointer-events-none size-5 text-muted-foreground" />
+                <span className="sr-only">Open Project Link</span>
+              </LinkPreview>
 
               <div
                 className="shrink-0 text-muted-foreground [&_svg]:size-4"
